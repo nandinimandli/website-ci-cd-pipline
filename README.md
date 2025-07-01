@@ -1,17 +1,17 @@
-![HOW TO create](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/05eff408-3cea-4c77-a4d0-f2a322069cda)
+![HOW TO create](https://github.com/nandinimandli/website-ci-cd-pipline/assets/113539818/05eff408-3cea-4c77-a4d0-f2a322069cda)
 
 
 PROJECT 1 : 
 CREATE A CICD PIPLINE AND  DEPLOY A WEBSITE IN APACHE WEBSERVER HOSTED ON AWS USING JENKINS
 
-![image](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/e780b80e-b5e9-4655-9e63-6e5e948537fd)
+![image](https://github.com/nandinimandli/website-ci-cd-pipline/assets/113539818/e780b80e-b5e9-4655-9e63-6e5e948537fd)
 
 
 STEPS TO BE FOLLOWED .
 FOLLOWS TUTORIALS & GITHUB FOR PROJECT 
 	JENKINS INTRODUCTION https://youtu.be/L8B2i_hLwVM?feature=shared 
 	JENKINS INSTALATION ON EC2 UBUNTU OS  https://youtu.be/2OyLTG7jesQ?feature=shared 
-	PROJECT WEBSITE REPOSITORY : website1/Aseem-brainwave-html.zip at dev · Aseemakram19/website1 (github.com)
+	PROJECT WEBSITE REPOSITORY : website1/nandini-brainwave-html.zip at dev ·nandinimandli/website1 (github.com)
 
 LOGIN TO YOUR EC2 INSTANCE & INSTALL JENKINS , JENKINS PLUGINS , CREATE PIPILINE THROUGH GUI JENKINS http://ip:8080 
 PREREQUESTION : 
